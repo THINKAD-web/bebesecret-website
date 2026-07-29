@@ -4,7 +4,8 @@
   "description": "Bébé Secret - 제주 서귀포 아동복 브랜드 웹사이트",
   "main": "index.html",
   "scripts": {
-    "start": "python -m http.server 3000"
+    "start": "python3 -m http.server 3000",
+    "dev": "python3 -m http.server 3000"
   },
   "keywords": ["bebesecret", "아동복", "제주", "서귀포"],
   "author": "Jaehan Lee",
